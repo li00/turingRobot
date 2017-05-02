@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="Robot:war exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/Robot_war_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="Robot/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="Robot" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
